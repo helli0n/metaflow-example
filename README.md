@@ -5,6 +5,7 @@
 
 ### create config with AWS resources
 Create and copy config to ~/.metaflowconfig/
+
 `cp config.json ~/.metaflowconfig/`
 
 ### Example for execution metaflow job on AWS 
