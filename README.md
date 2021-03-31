@@ -3,7 +3,7 @@
 ### install metaflow
 `pip install metaflow`
 
-###create config with AWS resources
+### create config with AWS resources
 Create and copy config to ~/.metaflowconfig/
 `cp config.json ~/.metaflowconfig/`
 
